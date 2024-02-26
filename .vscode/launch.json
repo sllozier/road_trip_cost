@@ -1,0 +1,47 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "GenerateTripData",
+        "request": "launch",
+        "mainClass": "test.GenerateTripData",
+        "projectName": "road_trip_cost_7cb99a68"
+      },
+      {
+        "type": "java",
+        "name": "Project3Test",
+        "request": "launch",
+        "mainClass": "test.Project3Test",
+        "projectName": "road_trip_cost_7cb99a68",
+        "vmArgs": "--module-path /home/slozier/Desktop/javafx-sdk-21.0.2/lib --add-modules javafx.controls,javafx.fxml"
+      },
+      {
+        "type": "java",
+        "name": "TestRunner",
+        "request": "launch",
+        "mainClass": "test.TestRunner",
+        "projectName": "road_trip_cost_7cb99a68",
+        "vmArgs": "--module-path /home/slozier/Desktop/javafx-sdk-21.0.2/lib --add-modules javafx.controls,javafx.fxml"
+      },
+      {
+        "type": "java",
+        "name": "TripCostTest",
+        "request": "launch",
+        "mainClass": "test.TripCostTest",
+        "projectName": "road_trip_cost_7cb99a68"
+      },
+      {
+        "type": "java",
+        "name": "Project3",
+        "request": "launch",
+        "mainClass": "main.Project3",
+        "projectName": "road_trip_cost_7cb99a68",
+        "vmArgs": "--module-path /home/slozier/Desktop/javafx-sdk-21.0.2/lib --add-modules javafx.controls,javafx.fxml"
+      }
+    ]
+  }
+  
